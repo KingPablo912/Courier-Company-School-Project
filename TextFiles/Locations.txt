@@ -1,0 +1,233 @@
+Northern Cape;Christiana;2680  
+Northern Cape;Hartswater;8570  
+Northern Cape;Jan Kempdorp;8550  
+Northern Cape;Kimberley;8301  
+Northern Cape;Kuruman;8460  
+Northern Cape;Postmasburg;8420  
+Northern Cape;Upington;8801  
+Northern Cape;Pampierstad;8566  
+Northern Cape;Warrenton;8530  
+Northern Cape;De Aar;7000  
+Northern Cape;Barkly West;8375  
+Northern Cape;Springbok;8240  
+Northern Cape;Colesberg;9795  
+Northern Cape;Douglas;8730  
+Northern Cape;Prieska;8940  
+Northern Cape;Port Nolloth;8280  
+Northern Cape;Kakamas;8870  
+Northern Cape;Calvinia;8190  
+
+Western Cape;Cape Town;8001  
+Western Cape;Claremont;7708  
+Western Cape;Rondebosch;7700  
+Western Cape;Lansdowne;7780  
+Western Cape;Retreat;7945  
+Western Cape;Paarl;7646  
+Western Cape;Wellington;7654  
+Western Cape;Stellenbosch;7600  
+Western Cape;George;6529  
+Western Cape;Mossel Bay;6500  
+Western Cape;Oudtshoorn;6620  
+Western Cape;Knysna;6570  
+Western Cape;Beaufort West;6970  
+Western Cape;Prince Albert;6930  
+Western Cape;Ceres;6835  
+Western Cape;Montagu;6720  
+Western Cape;Grabouw;7160  
+Western Cape;Atlantis;7349  
+Western Cape;Plettenberg Bay;6600  
+Western Cape;Saldanha;7395  
+Western Cape;Vredendal;8160  
+Western Cape;Bredasdorp;7280  
+
+Free State;Bloemfontein;9301  
+Free State;Bethlehem;9700  
+Free State;Phuthaditjhaba;9866  
+Free State;Welkom;9459  
+Free State;Virginia;9430  
+Free State;Kroonstad;9499  
+Free State;Sasolburg;9570  
+Free State;Parys;9585  
+Free State;Harrismith;9880  
+Free State;Heilbron;9650  
+Free State;Senekal;9600  
+Free State;Viljoenskroon;9520  
+Free State;Hennenman;9445  
+Free State;Hoopstad;9479  
+Free State;Vrede;9835  
+Free State;Vredefort;9595  
+Free State;Zastron;9950  
+Free State;Ladybrand;9745  
+Free State;Clocolan;9735  
+Free State;Bultfontein;9670  
+Free State;Bothaville;9660  
+Free State;Brandfort;9400  
+Free State;Wepener;9944  
+Free State;Ficksburg;9730  
+Free State;Winburg;9420  
+
+Eastern Cape;Port Elizabeth;6000  
+Eastern Cape;East London;5200  
+Eastern Cape;Mthatha;5100  
+Eastern Cape;Grahamstown;6139  
+Eastern Cape;King William's Town;5600  
+Eastern Cape;Cradock;5880  
+Eastern Cape;Cacadu;6175  
+Eastern Cape;Queenstown;5319  
+Eastern Cape;Umtata;5100  
+Eastern Cape;Fort Beaufort;5720  
+Eastern Cape;Burgersdorp;9750  
+Eastern Cape;Jeffreys Bay;6330  
+Eastern Cape;Stutterheim;4930  
+Eastern Cape;Komani;5320  
+Eastern Cape;Willowmore;6450  
+Eastern Cape;Kirkwood;6120  
+Eastern Cape;Uitenhage;6229  
+Eastern Cape;Mount Frere;5090  
+Eastern Cape;Port Alfred;6170  
+Eastern Cape;Alexandra;5760  
+Eastern Cape;Lusikisiki;4820  
+Eastern Cape;Dordrecht;5330  
+Eastern Cape;Baviaanskloof;6140  
+Eastern Cape;Aberdeen;6270  
+Eastern Cape;Middelburg;5900  
+Eastern Cape;Tarkastad;5445  
+Eastern Cape;Barkly East;9750  
+Eastern Cape;Colesberg;9795  
+Eastern Cape;Ngcobo;5360  
+Eastern Cape;Kleinzee;8290  
+Eastern Cape;Zuurberg;6050  
+Eastern Cape;Paterson;6130  
+Eastern Cape;Port St. John's;5120 
+
+Gauteng;Johannesburg;2000  
+Gauteng;Pretoria;0001  
+Gauteng;Soweto;1804  
+Gauteng;Sandton;2146  
+Gauteng;Edenvale;1609  
+Gauteng;Midrand;1682  
+Gauteng;Kempton Park;1620  
+Gauteng;Benoni;1500  
+Gauteng;Centurion;0046  
+Gauteng;Randburg;2194  
+Gauteng;Roodepoort;1725  
+Gauteng;Boksburg;1459  
+Gauteng;Alberton;1450  
+Gauteng;Vanderbijlpark;1900  
+Gauteng;Krugersdorp;1739  
+Gauteng;Germiston;1401  
+Gauteng;Diepsloot;2189  
+Gauteng;Tembisa;1632  
+Gauteng;Mamelodi;0122  
+Gauteng;Atteridgeville;0008  
+Gauteng;Hillbrow;2001  
+Gauteng;Bryanston;2191  
+Gauteng;Muldersdrift;1739  
+Gauteng;Ivory Park;1662  
+Gauteng;Fourways;2055  
+Gauteng;Lenasia;1827  
+Gauteng;Pretoria North;0182  
+Gauteng;Witbank;1034  
+Gauteng;Zandfontein;0002  
+Gauteng;Auckland Park;2092  
+ 
+Limpopo;Polokwane;0699  
+Limpopo;Thohoyandou;0950  
+Limpopo;Mokopane;0601  
+Limpopo;Lephalale;0555  
+Limpopo;Tzaneen;0850  
+Limpopo;Sibasa;0950  
+Limpopo;Burgersfort;1150  
+Limpopo;Phalaborwa;1389  
+Limpopo;Modimolle;0510  
+Limpopo;Makhado;0920  
+Limpopo;Dendron;0742  
+Limpopo;Vhembe;0950  
+Limpopo;Marapong;0650  
+Limpopo;Groblersdal;0470  
+Limpopo;Mookgophong;0530  
+Limpopo;Maake;0749  
+Limpopo;Giyani;0826  
+Limpopo;Mahalapye;0745  
+Limpopo;Naboomspruit;0560  
+Limpopo;Mooifontein;0745  
+Limpopo;Senwabarwana;0803  
+Limpopo;Kgapane;0870  
+Limpopo;Vuwani;0950  
+
+Mpumalanga;Nelspruit;1200  
+Mpumalanga;White River;1240  
+Mpumalanga;Witbank;1034  
+Mpumalanga;Secunda;2302  
+Mpumalanga;Mbombela;1200  
+Mpumalanga;Barberton;1300  
+Mpumalanga;Komatipoort;1340  
+Mpumalanga;Lydenburg;1120  
+Mpumalanga;Bethal;2309  
+Mpumalanga;Middelburg;1050  
+Mpumalanga;Sabie;1260  
+Mpumalanga;Dullstroom;1110  
+Mpumalanga;Pienaar;1201  
+Mpumalanga;Wakkerstroom;2480  
+Mpumalanga;Kriel;2271  
+Mpumalanga;Badplaas;1190  
+Mpumalanga;Ermelo;2350  
+Mpumalanga;Delmas;2210  
+Mpumalanga;Kanyamazane;1214  
+Mpumalanga;Numbi;1242  
+Mpumalanga;Ehlanzeni;1241  
+
+KwaZulu-Natal;Durban;4000  
+KwaZulu-Natal;Pietermaritzburg;3201  
+KwaZulu-Natal;Newcastle;2940  
+KwaZulu-Natal;Richards Bay;3900  
+KwaZulu-Natal;Umlazi;4031  
+KwaZulu-Natal;Empangeni;3880  
+KwaZulu-Natal;Ladysmith;3370  
+KwaZulu-Natal;Port Shepstone;4240  
+KwaZulu-Natal;Howick;3290  
+KwaZulu-Natal;Umtata;5100  
+KwaZulu-Natal;Ballito;4420  
+KwaZulu-Natal;Greytown;3220  
+KwaZulu-Natal;Kokstad;4700  
+KwaZulu-Natal;Scottburgh;4180  
+KwaZulu-Natal;Amanzimtoti;4126  
+KwaZulu-Natal;Eshowe;3815  
+KwaZulu-Natal;Vryheid;3100  
+KwaZulu-Natal;Sibaya;4320  
+KwaZulu-Natal;Port Edward;4295  
+KwaZulu-Natal;Stanger;4449  
+KwaZulu-Natal;Wartburg;3233  
+KwaZulu-Natal;Mkhambathini;3240  
+KwaZulu-Natal;Bergville;3350  
+KwaZulu-Natal;Lidgetton;3270  
+KwaZulu-Natal;Estcourt;3310  
+KwaZulu-Natal;Umbumbulu;4103  
+KwaZulu-Natal;Mooi River;3300  
+KwaZulu-Natal;KwaDukuza;4450  
+KwaZulu-Natal;Zululand;3880  
+KwaZulu-Natal;Cato Ridge;3680  
+KwaZulu-Natal;Tugela Mouth;3850  
+
+North West;Mahikeng;2745  
+North West;Rustenburg;0300  
+North West;Klerksdorp;2571  
+North West;Potchefstroom;2520  
+North West;Lichtenburg;2740  
+North West;Brits;0250  
+North West;Vanderbijlpark;1900  
+North West;Delareyville;2770  
+North West;Tlakgameng;2774  
+North West;Orkney;2662  
+North West;Mafikeng;2745  
+North West;Zeerust;2865  
+North West;Ganyesa;8635  
+North West;Swartruggens;0334  
+North West;Schweizer-Reneke;2780  
+North West;Boons;0327  
+North West;Sannieshof;2775  
+North West;Tshing;2744  
+North West;Magaliesburg;0330  
+North West;Ventersdorp;2710  
+North West;Zeerust;2865  
+North West;Koster;0350  

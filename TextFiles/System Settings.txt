@@ -1,0 +1,5 @@
+Base Fee:100
+Rate / KG:40
+Express Fee Multiplier:1.5
+Maximum Weight:2000
+Minimum Weight:1

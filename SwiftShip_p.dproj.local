@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/28 14:18:23.000.348,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/05 18:52:39.000.524,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/05 18:53:07.000.027,C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\SwiftShip_u.pas=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/05 18:53:07.000.027,C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\SwiftShip_u.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/03/05 18:55:14.000.440,C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\SwiftShip_p.dproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/03/11 17:53:33.000.626,=C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Unit1.pas</Transaction>
+    <Transaction>2025/03/11 17:54:58.000.886,C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Unit1.pas=C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\ParcelObjects_u.pas</Transaction>
+    <Transaction>2025/04/17 09:06:27.000.185,C:\Users\21009\OneDrive - Labori HS\IT PAT 2025\FASE 2\ParcelObjects_u.pas=</Transaction>
+    <Transaction>2025/04/17 09:06:27.000.105,C:\Users\21009\OneDrive - Labori HS\IT PAT 2025\FASE 2\SwiftShip_u.pas=</Transaction>
+    <Transaction>2025/05/13 15:21:58.000.702,=C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Unit1.pas</Transaction>
+    <Transaction>2025/05/13 15:22:14.000.663,C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Logs_u.pas=C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Unit1.pas</Transaction>
+    <Transaction>2025/05/13 15:22:14.000.663,C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Logs_u.dfm=C:\Users\USER\OneDrive - Labori HS\IT PAT 2025\FASE 2\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
